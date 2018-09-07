@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VoteR 2.0.cpp">
+    <ClCompile Include="VoteR.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
